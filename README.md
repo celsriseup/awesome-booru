@@ -112,7 +112,7 @@
 
 ## RIP in pepperoni
 
-# Dead boorus
+### Dead boorus
 
 - [Angel HQ](http://www.angelhq.net/)
 - [Anichan](http://chan.aniview.eu/post/list)
@@ -120,7 +120,7 @@
 - [AnimeMahou](http://www.animemahou.com)
 - [Baron](http://wudthipan.com/fucko) - (up but not working)
 
-# Dead software
+### Dead software
 
 - [moebooru-android](https://github.com/onlymash/moebooru-android) - Moebooru client for Android. Replaced by flexbooru.
 
