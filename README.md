@@ -13,7 +13,7 @@
 - [SFW](#sfw)
 - [Torrents](#torrents)
 - [Software](#software)
-    - [Hosts](#hosting)
+    - [Hosts](#hosts)
     - [Clients](#clients)
     - [Misc](#misc-software)
 - [RIP in pepperoni](#rip-in-pepperoni)
