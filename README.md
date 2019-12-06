@@ -12,7 +12,10 @@
     - [Misc](#misc)
 - [SFW](#sfw)
 - [Torrents](#torrents)
-- [RIP](#rip)
+- [Software](#software)
+    - [Hosts](#hosting)
+    - [Clients](#clients)
+- [RIP in pepperoni](#rip-in-pepperoni)
 
 
 ## Preamble
@@ -36,6 +39,7 @@
 - [Draw Friends](https://drawfriends.booru.org/)
 - [The /co/llection](https://the-collection.booru.org/)
 - [IIchan](https://ii.booru.org/)
+- [yande.re](https://yande.re/post)
 
 ### Doujins
 
@@ -58,6 +62,7 @@
 
 - [booru](https://booru.org/) - Create your own booru. See also [top booru boorus](https://booru.org/top).
 - [NanoChan](http://nanochan.org/) - About to be resurrected from the dead
+- [Pepe](pepe.booru.org) - Rare pepes
 
 ## SFW
 
@@ -76,7 +81,18 @@
 
 - [sukebei](https://sukebei.nyaa.si/) - 'fap' section of nyaa.si
 
-## Rip
+## Software
+
+### Hosts
+
+- [moebooru](https://github.com/moebooru/moebooru) - Moebooru, a fork of danbooru1 that has been heavily modified 
+
+### Clients
+
+- [imgbrd-grabber](https://bionus.github.io/imgbrd-grabber/) - Very customizable imageboard/booru downloader with powerful filenaming features.
+- [flexbooru](https://github.com/flexbooru/flexbooru) - A booru client for Android, support Danbooru, Moebooru, Gelbooru, Sankaku, etc.
+
+## RIP in pepperoni
 
 Graveyard of dead boorus
 
