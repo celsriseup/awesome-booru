@@ -15,7 +15,10 @@
 - [Software](#software)
     - [Hosts](#hosting)
     - [Clients](#clients)
+    - [Misc](#misc-software)
 - [RIP in pepperoni](#rip-in-pepperoni)
+    - [Dead boorus](#dead-boorus)
+    - [Dead software](#dead-software)
 
 
 ## Preamble
@@ -40,6 +43,7 @@
 - [The /co/llection](https://the-collection.booru.org/)
 - [IIchan](https://ii.booru.org/)
 - [yande.re](https://yande.re/post)
+- [anime-pictures](https://anime-pictures.net/)
 
 ### Doujins
 
@@ -86,15 +90,29 @@
 ### Hosts
 
 - [moebooru](https://github.com/moebooru/moebooru) - Moebooru, a fork of danbooru1 that has been heavily modified 
+- [moeverdose](https://github.com/eternialz/moeverdose) - An image board made with RoR6 and PostgreSQL
+- [Boorunaut](https://github.com/Boorunaut/Boorunaut) - A taggable imagebord built in Django. Based on Danbooru.
 
 ### Clients
 
 - [imgbrd-grabber](https://bionus.github.io/imgbrd-grabber/) - Very customizable imageboard/booru downloader with powerful filenaming features.
 - [flexbooru](https://github.com/flexbooru/flexbooru) - A booru client for Android, support Danbooru, Moebooru, Gelbooru, Sankaku, etc.
+- [Booru-chan](https://github.com/DrabWeb/Booru-chan) - A Booru browser for macOS 
+- [derpibooru-downloader](https://github.com/Sibusten/derpibooru-downloader) -  Downloads images from derpibooru.org using a variety of options
+- [booru](https://github.com/AtlasTheBot/booru) - Searches boorus for images using some js magic
+- [Yummybooru](https://github.com/Yochyo/Yummybooru) - Danbooru/Moebooru client/viewer for android 
+
+### Misc software
+
+- [Hydrus](https://github.com/hydrusnetwork/hydrus) - A personal booru-style media tagger that can import files and tags from your hard drive and popular websites. Content can be shared with other users via user-run servers.
+- [captchouli](https://github.com/bakape/captchouli) - booru-backed procedurally-generated anime image captcha library and server 
+- [hydron](https://github.com/bakape/hydron) - Media tagger and organizer backend and GUI frontend. Hydron aims to be a much faster alternative to Hydrus and is currently in early development. 
+- [kaori](https://github.com/iCrawl/kaori) - Your friendly neighbourhood violinist bringing you the best booru images 
+- [GelbooruEnhancement](https://github.com/friendlyanon/GelbooruEnhancement) -  Image Viewer and Endless Scroll userscripts for Gelbooru and various other boorus
 
 ## RIP in pepperoni
 
-Graveyard of dead boorus
+# Dead boorus
 
 - [Angel HQ](http://www.angelhq.net/)
 - [Anichan](http://chan.aniview.eu/post/list)
@@ -102,4 +120,7 @@ Graveyard of dead boorus
 - [AnimeMahou](http://www.animemahou.com)
 - [Baron](http://wudthipan.com/fucko) - (up but not working)
 
+# Dead software
+
+- [moebooru-android](https://github.com/onlymash/moebooru-android) - Moebooru client for Android. Replaced by flexbooru.
 
