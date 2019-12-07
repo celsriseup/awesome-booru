@@ -20,7 +20,6 @@
     - [Dead boorus](#dead-boorus)
     - [Dead software](#dead-software)
 
-
 ## Preamble
 
 **Warning: NSFW content**
@@ -44,17 +43,21 @@
 - [IIchan](https://ii.booru.org/)
 - [yande.re](https://yande.re/post)
 - [anime-pictures](https://anime-pictures.net/)
+- [Hypnohub](https://hypnohub.net/)
+- [ATFBooru](https://booru.allthefallen.moe/)
 
 ### Doujins
 
 - [nhentai](https://nhentai.net/)
 - [E-hentai](https://e-hentai.org/)
+- [Luscious](https://www.luscious.net/)
 
 ## 3DPD
 
 - [realbooru](https://realbooru.com/) - Former 3DPD content from rule34 was moved here
 - [hentai-cosplay](https://hentai-cosplay.com/)
 - [Idol Complex](https://idol.sankakucomplex.com/) - Sankaku's second booru for 3DPD
+- [3dbooru](http://behoimi.org/)
 
 ### Furry
 
@@ -64,9 +67,10 @@
 
 ### Misc
 
-- [booru](https://booru.org/) - Create your own booru. See also [top booru boorus](https://booru.org/top).
+- [booru](https://booru.org/) - Create your own booru. Hosts thousands of boorus. See also: [top booru boorus](https://booru.org/top).
 - [NanoChan](http://nanochan.org/) - About to be resurrected from the dead
 - [Pepe](pepe.booru.org) - Rare pepes
+- [vndb](https://vndb.org/) - visual novel database
 
 ## SFW
 
@@ -77,9 +81,14 @@
 - [Shishnet](http://shimmie.shishnet.org/v2/) - Shimmie Testbed
 - [Bronibooru](http://www.bronibooru.com/)
 - [MSPA Booru](http://mspabooru.com/) - Formerly Ib.Skaia.net
-- [Konachan](https://konachan.net/) - Konachan's '.net' SFW version
+- [Konachan](https://konachan.net/) - Konachans '.net' SFW version
 - [sakugabooru](https://www.sakugabooru.com/)
 - [Vinebooru](https://booru.vineshroom.net/)
+- [e926](https://e926.net) - e621s 'SFW' version (as SFW as furry can be)
+- One Yukkuri Place [yukkuri](http://yukkuri.shii.org/) / [yunyah](http://oyp.yunyah.com/)
+- [Zerochan](https://www.zerochan.net/) - Zerochans SFW 2D
+- [Asiachan KPOP](https://kpop.asiachan.com/) - Zerochans SFW 3DPD
+- [Minitokyo](http://www.minitokyo.net/) - Zerochans SFW 2D wallpapers
 
 ## Torrents
 
@@ -92,6 +101,7 @@
 - [moebooru](https://github.com/moebooru/moebooru) - Moebooru, a fork of danbooru1 that has been heavily modified 
 - [moeverdose](https://github.com/eternialz/moeverdose) - An image board made with RoR6 and PostgreSQL
 - [Boorunaut](https://github.com/Boorunaut/Boorunaut) - A taggable imagebord built in Django. Based on Danbooru.
+- [omnibooru](https://github.com/kxz/omnibooru) - Room 208 fork of Danbooru 2, the taggable image board.
 
 ### Clients
 
@@ -119,6 +129,10 @@
 - [Animedia](http://www.animedia.com.mx/galeria/post/list)
 - [AnimeMahou](http://www.animemahou.com)
 - [Baron](http://wudthipan.com/fucko) - (up but not working)
+- [Omnibooru](https://booru.room208.org/wiki_pages/1) - Permanently shut down. Archives available.
+- [Pandabooru](http://www.pandabooru.net/wiki)
+- [Uberbooru](https://uberbooru.com) - Not responding
+- [vectorbooru](http://ichijou.org/) - Apache2 Ubuntu Default Page
 
 ### Dead software
 
