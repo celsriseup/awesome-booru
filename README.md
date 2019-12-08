@@ -9,9 +9,10 @@
     - [Doujins](#doujins)
     - [3DPD](#3dpd)
     - [Furry](#furry)
+    - [Not booru](#not-booru)
+    - [Torrents](#torrents)
     - [Misc](#misc)
 - [SFW](#sfw)
-- [Torrents](#torrents)
 - [Software](#software)
     - [Hosts](#hosts)
     - [Clients](#clients)
@@ -45,6 +46,10 @@
 - [anime-pictures](https://anime-pictures.net/)
 - [Hypnohub](https://hypnohub.net/)
 - [ATFBooru](https://booru.allthefallen.moe/)
+- [rule34hentai](https://rule34hentai.net/)
+- [The Hentai World](https://thehentaiworld.com/)
+- [Giantess Booru](https://giantessbooru.com/)
+
 
 ### Doujins
 
@@ -64,6 +69,17 @@
 - [e621](https://e621.net/)
 - [PoniBooru](https://pbooru.com/)
 - [Derpibooru](https://derpibooru.org/)
+- [Furaffinity](https://www.furaffinity.net/)
+
+### Not booru
+
+- [Hentai-Foundry](https://www.hentai-foundry.com/?enterAgree=1)
+- [Naughy Machinima](https://www.naughtymachinima.com/) - booru-ish
+
+### Torrents
+
+- [sukebei](https://sukebei.nyaa.si/) - 'fap' section of nyaa.si
+- [Fap for fun](http://fapforfun.net/)
 
 ### Misc
 
@@ -89,10 +105,6 @@
 - [Zerochan](https://www.zerochan.net/) - Zerochans SFW 2D
 - [Asiachan KPOP](https://kpop.asiachan.com/) - Zerochans SFW 3DPD
 - [Minitokyo](http://www.minitokyo.net/) - Zerochans SFW 2D wallpapers
-
-## Torrents
-
-- [sukebei](https://sukebei.nyaa.si/) - 'fap' section of nyaa.si
 
 ## Software
 
