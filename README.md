@@ -30,7 +30,10 @@
 ### General
 
 - [Sankaku Channel](https://chan.sankakucomplex.com/)
-- [Danbooru](https://danbooru.donmai.us/)
+- Donmai
+    - [Danbooru](https://danbooru.donmai.us/)
+    - [Sonohara](https://sonohara.donmai.us/)
+    - [Hijiribe](https://hijiribe.donmai.us/)
 - [Gelbooru](https://gelbooru.com/)
 - [Konachan](https://konachan.com/)
 - [rule34](https://rule34.xxx/)
@@ -49,7 +52,23 @@
 - [rule34hentai](https://rule34hentai.net/)
 - [The Hentai World](https://thehentaiworld.com/)
 - [Giantess Booru](https://giantessbooru.com/)
-
+- [Fancy Boory](http://dorkbooru.com/)
+- [verminbooru](https://booru.myverm.in/)
+- [evbooru](https://evbooru.com/)
+- [lolibooru](https://lolibooru.moe/)
+- [megabooru](https://www.megabooru.com/)
+- [hard55](http://www.hard55.com/)
+- [analbooru](http://www.analbooru.com/)
+- [zombooru](http://www.zombooru.com/)
+- [/f/lockdraw](https://www.skycow.us/shimmie/)
+- [MilBooru](http://sheslostcontrol.net/moe/shimmie/)
+- [CDRR board](http://zumki.ru/)
+- [Kusubooru](https://kusubooru.com/)
+- [FANSERVICE.FAN](https://fanservice.fan/)
+- [Rule34 Yaoi](http://rule34yaoi.com/)
+- [Tentacle rape](https://tentaclerape.net)
+- [WH40kart](https://wh40kart.im/)
+- [4chan House Shimmie](http://shimmie.4chanhouse.org/index.php?q=/post/list)
 
 ### Doujins
 
@@ -70,11 +89,16 @@
 - [PoniBooru](https://pbooru.com/)
 - [Derpibooru](https://derpibooru.org/)
 - [Furaffinity](https://www.furaffinity.net/)
+- [boorufurry](http://www.boorufurry.com/)
+- [burrowowl](http://gallery.burrowowl.net/)
+- [Dante's Archive](https://cow.zone/shimmie2/)
 
 ### Not booru
 
 - [Hentai-Foundry](https://www.hentai-foundry.com/?enterAgree=1)
 - [Naughy Machinima](https://www.naughtymachinima.com/) - booru-ish
+- [nik.bot.nu](https://nik.bot.nu/)
+- [Nozomi.la](https://nozomi.la/)
 
 ### Torrents
 
@@ -83,10 +107,12 @@
 
 ### Misc
 
-- [booru](https://booru.org/) - Create your own booru. Hosts thousands of boorus. See also: [top booru boorus](https://booru.org/top).
+- [booru.org](https://booru.org/) - Create your own booru. Hosts thousands of boorus. See also: [top booru boorus](https://booru.org/top).
 - [NanoChan](http://nanochan.org/) - About to be resurrected from the dead
 - [Pepe](pepe.booru.org) - Rare pepes
 - [vndb](https://vndb.org/) - visual novel database
+- [Beanbeeroo](http://miya.nipah.moe/) - memes
+- [CJ's Shimmie](https://cjdavies.org/shimmie/)
 
 ## SFW
 
@@ -105,6 +131,13 @@
 - [Zerochan](https://www.zerochan.net/) - Zerochans SFW 2D
 - [Asiachan KPOP](https://kpop.asiachan.com/) - Zerochans SFW 3DPD
 - [Minitokyo](http://www.minitokyo.net/) - Zerochans SFW 2D wallpapers
+- [Karabako](http://www.karabako.net/)
+- [genboard](https://img.genshiken-itb.org)
+- [Oceanfalls Booru](https://fanart.oceanfalls.net/)
+- [Caliburbooru](https://cascards.fluffyquack.com)
+- [Taskforce M.O.E.](http://taskforce.moe/)
+- [RoA.Booru](http://www.booru.realmofastra.ca/)
+- [Creativity Weekly Database](https://creativity.xenonlabs.eu/post/list/1)
 
 ## Software
 
