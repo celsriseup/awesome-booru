@@ -77,6 +77,7 @@ See also [CONTRIBUTING.md](./CONTRIBUTING.md)
 - [Tentacle rape](https://tentaclerape.net)
 - [WH40kart](https://wh40kart.im/)
 - [4chan House Shimmie](http://shimmie.4chanhouse.org/index.php?q=/post/list)
+- [ATFbooru](https://booru.allthefallen.moe/)
 
 ### Doujins
 
@@ -100,13 +101,19 @@ See also [CONTRIBUTING.md](./CONTRIBUTING.md)
 - [boorufurry](http://www.boorufurry.com/)
 - [burrowowl](http://gallery.burrowowl.net/)
 - [Dante's Archive](https://cow.zone/shimmie2/)
+- [FurryBooru](https://furry.booru.org/)
+- [Wildcritters](https://wildcritters.ws/)
 
 ### Not booru
+
+Mostly "art galleries" and booru-ish.
 
 - [Hentai-Foundry](https://www.hentai-foundry.com/?enterAgree=1)
 - [Naughy Machinima](https://www.naughtymachinima.com/) - booru-ish
 - [nik.bot.nu](https://nik.bot.nu/)
 - [Nozomi.la](https://nozomi.la/)
+- [Inkbunny](https://inkbunny.net/) - Furry, booru-ish
+- [KawaiiHentai](https://kawaiihentai.com/)
 
 ### Torrents
 
@@ -146,6 +153,7 @@ See also [CONTRIBUTING.md](./CONTRIBUTING.md)
 - [Taskforce M.O.E.](http://taskforce.moe/)
 - [RoA.Booru](http://www.booru.realmofastra.ca/)
 - [Creativity Weekly Database](https://creativity.xenonlabs.eu/post/list/1)
+- [wallhaven](https://wallhaven.cc/) - Wallpapers, booru-like, some NSFW but mostly SFW
 
 ## Software
 
@@ -186,6 +194,13 @@ See also [CONTRIBUTING.md](./CONTRIBUTING.md)
 - [Pandabooru](http://www.pandabooru.net/wiki)
 - [Uberbooru](https://uberbooru.com) - Not responding
 - [vectorbooru](http://ichijou.org/) - Apache2 Ubuntu Default Page
+- [dollbooru](https://dollbooru.org/) - Error 1016
+- [Mishimmie](http://shimmie.katawa-shoujo.com/) - Dead Katawa-shoujo booru
+- [20% Cooler](twentypercentcooler.net) - Dead pony booru
+
+### Dead doujinshi
+
+- [TheDoujin](http://thedoujin.com/)
 
 ### Dead software
 
