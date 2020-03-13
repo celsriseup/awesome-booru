@@ -2,6 +2,14 @@
 
 > A curated list of weebness
 
+## Want to contribute?
+
+Pull requests are welcome.
+
+This is not a dead list just because it's been a couple of months.
+
+See also [CONTRIBUTING.md](./CONTRIBUTING.md)
+
 ## Contents
 - [Preamble](#preamble)
 - [NSFW](#nfsw)
