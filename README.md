@@ -78,12 +78,15 @@ See also [CONTRIBUTING.md](./CONTRIBUTING.md)
 - [WH40kart](https://wh40kart.im/)
 - [4chan House Shimmie](http://shimmie.4chanhouse.org/index.php?q=/post/list)
 - [ATFbooru](https://booru.allthefallen.moe/)
+- [Foot-Fetish-Booru](https://footfetishbooru.booru.org/)
+- [Scatbooru](https://scatbooru.co.uk/)
 
 ### Doujins
 
 - [nhentai](https://nhentai.net/)
 - [E-hentai](https://e-hentai.org/)
 - [Luscious](https://www.luscious.net/)
+- [HBrowse](https://www.hbrowse.com/)
 
 ## 3DPD
 
@@ -197,6 +200,7 @@ Mostly "art galleries" and booru-ish.
 - [dollbooru](https://dollbooru.org/) - Error 1016
 - [Mishimmie](http://shimmie.katawa-shoujo.com/) - Dead Katawa-shoujo booru
 - [20% Cooler](twentypercentcooler.net) - Dead pony booru
+- [youhate.us](youhate.us) 
 
 ### Dead doujinshi
 
