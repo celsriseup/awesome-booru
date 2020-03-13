@@ -11,6 +11,8 @@ There are other guides around on the net as well, for example this one:
 
 https://opensource.com/article/19/7/create-pull-request-github
 
+Then just fork this repository, make your changes, and create a pull request. I'll happily accept it.
+
 If you don't want to, or can't for whatever reason, creating an issue with whatever changes you want is also acceptable.
 
 ## Other stuff
