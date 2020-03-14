@@ -21,6 +21,11 @@ It's very useful if you archive the websites you find, either with [archive.org]
 or any other good website archival sites, but I'm not going to force you. 
 We'll also need an archive link as proof that a site existed to be able to add it to rip in pepperoni.
 
+When you contribute you automatically agree to 
+
+- The CC0 license terms
+- Further distribute your changes under the CC0 license
+
 ## What's a booru?
 
 In essence, a booru is just a website where one can post images and add tags to said images.
