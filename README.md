@@ -77,7 +77,6 @@ See also [CONTRIBUTING.md](./CONTRIBUTING.md)
 - [Tentacle rape](https://tentaclerape.net)
 - [WH40kart](https://wh40kart.im/)
 - [4chan House Shimmie](http://shimmie.4chanhouse.org/index.php?q=/post/list)
-- [ATFbooru](https://booru.allthefallen.moe/)
 - [Foot-Fetish-Booru](https://footfetishbooru.booru.org/)
 - [Scatbooru](https://scatbooru.co.uk/)
 
