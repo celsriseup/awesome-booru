@@ -1,0 +1,963 @@
+[
+  {
+    "title": "Sankaku Channel",
+    "sub": "Sankaku",
+    "url": "https://chan.sankakucomplex.com/",
+    "software": "Danbooru",
+    "version": "old",
+    "rating": "NSFW",
+    "category": "Anime",
+    "api": "Disabled",
+    "status": "Active"
+  },
+  {
+    "title": "Danbooru",
+    "sub": "Donmai",
+    "url": "https://danbooru.donmai.us/",
+    "software": "Danbooru",
+    "version": "41304d6ad",
+    "rating": "NSFW",
+    "category": "Anime",
+    "api": "https://danbooru.donmai.us/posts.json?page=a1&limit=200",
+    "status": "Active"
+  },
+  {
+    "title": "Danbooru",
+    "sub": "Donmai",
+    "url": "https://danbooru.donmai.us/",
+    "software": "Danbooru",
+    "version": "41304d6ad",
+    "rating": "NSFW",
+    "category": "Anime",
+    "api": "https://danbooru.donmai.us/posts.json?page=a1&limit=200",
+    "status": "Active"
+  },
+  {
+    "title": "Sonohara",
+    "sub": "Donmai",
+    "url": "https://sonohara.donmai.us/",
+    "software": "Danbooru",
+    "version": "41304d6ad",
+    "rating": "NSFW",
+    "category": "Anime",
+    "api": "https://sonohara.donmai.us/posts.json?page=a1&limit=200",
+    "status": "Active"
+  },
+  {
+    "title": "Hijiribe",
+    "sub": "Donmai",
+    "url": "https://hijiribe.donmai.us/",
+    "software": "Danbooru",
+    "version": "41304d6ad",
+    "rating": "NSFW",
+    "category": "Anime",
+    "api": "https://hijiribe.donmai.us/posts.json?page=a1&limit=200",
+    "status": "Active"
+  },
+  {
+    "title": "Gelbooru",
+    "url": "https://hijiribe.donmai.us/",
+    "software": "Gelbooru",
+    "version": "Beta 0.2.5",
+    "rating": "NSFW",
+    "category": "Anime",
+    "api": "https://gelbooru.com/index.php?page=dapi&s=post&q=index",
+    "status": "Active"
+  },
+  {
+    "title": "Konachan",
+    "url": "https://konachan.com/",
+    "software": "Moebooru",
+    "version": "4.0.0-a.1",
+    "rating": "NSFW",
+    "category": "Anime",
+    "api": "https://konachan.com/post.json?limit=200",
+    "status": "Active"
+  },
+  {
+    "title": "Rule34.xxx",
+    "url": "https://rule34.xxx/",
+    "software": "Gelbooru",
+    "version": "Beta 0.2",
+    "rating": "NSFW",
+    "category": "Rule 34",
+    "api": "https://rule34.xxx/index.php?page=dapi&s=post&q=index",
+    "status": "Active"
+  },
+  {
+    "title": "Lolibaka",
+    "url": "https://www.lolibaka.com/",
+    "software": "Lolibaka Engine",
+    "rating": "NSFW",
+    "category": "Anime",
+    "api": "Unknown*",
+    "status": "Active"
+  },
+  {
+    "title": "TBIB - The Big ImageBooru",
+    "url": "https://tbib.org/",
+    "software": "Gelbooru",
+    "version": "Beta 0.2",
+    "rating": "NSFW",
+    "category": "Anime",
+    "api": "https://tbib.org/index.php?page=dapi&s=post&q=index",
+    "status": "Active"
+  },
+  {
+    "title": "Xbooru",
+    "url": "https://xbooru.com/",
+    "software": "Gelbooru",
+    "version": "Beta 0.2",
+    "category": "Rule 34",
+    "rating": "NSFW",
+    "api": "https://xbooru.com/index.php?page=dapi&s=post&q=index",
+    "status": "Active"
+  },
+  {
+    "title": "/tg/booru",
+    "sub": "booru.org",
+    "url": "https://grognard.booru.org/",
+    "software": "Gelbooru",
+    "version": "Beta 0.1.11",
+    "category": "Games",
+    "rating": "NSFW",
+    "api": "None**",
+    "status": "Active"
+  },
+  {
+    "title": "Draw Friends",
+    "sub": "booru.org",
+    "url": "https://drawfriends.booru.org/",
+    "software": "Gelbooru",
+    "version": "Beta 0.1.11",
+    "category": "Rule 34",
+    "rating": "NSFW",
+    "api": "None**",
+    "status": "Active"
+  },
+  {
+    "title": "The /co/llection",
+    "sub": "booru.org",
+    "url": "https://the-collection.booru.org/",
+    "software": "Gelbooru",
+    "version": "Beta 0.1.11",
+    "category": "Rule 34",
+    "rating": "NSFW",
+    "api": "None**",
+    "status": "Active"
+  },
+  {
+    "title": "IIchan.ru",
+    "sub": "booru.org",
+    "url": "https://ii.booru.org/",
+    "software": "Gelbooru",
+    "version": "Beta 0.1.11",
+    "category": "Anime",
+    "rating": "NSFW",
+    "api": "None**",
+    "status": "Active"
+  },
+  {
+    "title": "Paheal Rule 34",
+    "sub": "Paheal",
+    "url": "http://rule34.paheal.net/",
+    "software": "Shimmie2",
+    "version": "2.6.2",
+    "category": "Rule 34",
+    "rating": "NSFW",
+    "api": "Unknown*",
+    "status": "Active"
+  },
+  {
+    "title": "Paheal Cosplay",
+    "sub": "Paheal",
+    "url": "http://cosplay.paheal.net/",
+    "software": "Shimmie2",
+    "version": "2.6.2",
+    "category": "3DPD",
+    "rating": "NSFW",
+    "api": "Unknown*",
+    "status": "Down, error 500"
+  },
+  {
+    "title": "yande.re",
+    "url": "https://yande.re/post",
+    "software": "Moebooru",
+    "version": "4.0.0",
+    "category": "Anime",
+    "rating": "NSFW",
+    "api": "https://yande.re/post.json?limit=200",
+    "status": "Active"
+  },
+  {
+    "title": "Anime pictures",
+    "url": "https://anime-pictures.net/",
+    "software": "Proprietary",
+    "category": "Anime",
+    "rating": "NSFW",
+    "api": "POST https://anime-pictures.net/pictures/autocomplete_tag?tag=solo",
+    "status": "Active"
+  },
+  {
+    "title": "Hypnohub",
+    "url": "https://hypnohub.net/",
+    "software": "MyImouto",
+    "version": "1.0.8",
+    "category": "Fetish",
+    "rating": "NSFW",
+    "api": "https://hypnohub.net/post/index.json?limit=200",
+    "status": "Active"
+  },
+  {
+    "title": "ATFBooru",
+    "url": "https://booru.allthefallen.moe/",
+    "software": "ATFbooru",
+    "version": "04e68b698",
+    "category": "Anime",
+    "rating": "NSFW",
+    "api": "https://booru.allthefallen.moe/posts.json?page=a1&limit=200",
+    "status": "Active"
+  },
+  {
+    "title": "Rule34Hentai",
+    "url": "https://rule34hentai.net/",
+    "software": "Shimmie2",
+    "version": "2.6.2",
+    "category": "Rule 34",
+    "rating": "NSFW",
+    "api": "Unknown*",
+    "status": "Active"
+  },
+  {
+    "title": "The Hentai World",
+    "url": "https://thehentaiworld.com/",
+    "software": "Unknown*",
+    "version": "Unknown*",
+    "category": "Rule 34",
+    "rating": "NSFW",
+    "api": "Unknown*",
+    "status": "Active"
+  },
+  {
+    "title": "Giantess Booru",
+    "url": "https://giantessbooru.com/post/list",
+    "software": "Shimmie2",
+    "version": "Unknown*",
+    "category": "Rule 34",
+    "rating": "NSFW",
+    "api": "Unknown*",
+    "status": "Active"
+  },
+  {
+    "title": "Fancybooru",
+    "url": "http://dorkbooru.com/",
+    "software": "Danbooru",
+    "version": "v2.96.0",
+    "category": "Rule 34",
+    "rating": "NSFW",
+    "api": "http://dorkbooru.com/posts.json?page=a1&limit=200",
+    "status": "Active"
+  },
+  {
+    "title": "verminbooru",
+    "url": "https://booru.myverm.in/",
+    "software": "szurubooru",
+    "version": "v2.2-edge-80da646",
+    "category": "Rule 34",
+    "rating": "NSFW",
+    "api": "https://github.com/rr-/szurubooru/blob/master/doc/API.md",
+    "status": "Active"
+  },
+  {
+    "title": "EVBooru",
+    "url": "https://evbooru.com/",
+    "software": "Moebooru",
+    "version": "5.2.0",
+    "category": "Rule 34",
+    "rating": "NSFW",
+    "api": "https://evbooru.com/post.json?limit=200",
+    "status": "Active"
+  },
+  {
+    "title": "Lolibooru",
+    "url": "https://lolibooru.moe/",
+    "software": "MyImouto",
+    "version": "1.0.8",
+    "category": "Anime",
+    "rating": "NSFW",
+    "api": "https://lolibooru.moe/post/index.json?limit=200",
+    "status": "Active"
+  },
+  {
+    "title": "Megabooru Hentai",
+    "url": "https://www.megabooru.com/",
+    "software": "Shimmie2",
+    "version": "Unknown*",
+    "category": "Anime",
+    "rating": "NSFW",
+    "api": "Unknown*",
+    "status": "Active"
+  },
+  {
+    "title": "Hard55 Hentai",
+    "url": "http://www.hard55.com",
+    "software": "Shimmie2",
+    "version": "Unknown*",
+    "category": "Anime",
+    "rating": "NSFW",
+    "api": "Unknown*",
+    "status": "Active"
+  },
+  {
+    "title": "Analbooru",
+    "url": "http://www.analbooru.com/",
+    "software": "Shimmie2",
+    "version": "Unknown*",
+    "category": "Anime",
+    "rating": "NSFW",
+    "api": "Unknown*",
+    "status": "Active"
+  },
+  {
+    "title": "Zombooru",
+    "url": "http://www.zombooru.com/",
+    "software": "Shimmie2",
+    "version": "Unknown*",
+    "category": "Anime",
+    "rating": "NSFW",
+    "api": "Unknown*",
+    "status": "Active"
+  },
+  {
+    "title": "/f/lockdraw shimmie",
+    "url": "https://www.skycow.us/shimmie/",
+    "software": "Shimmie2",
+    "version": "Unknown*",
+    "category": "Rule 34",
+    "rating": "NSFW",
+    "api": "Unknown*",
+    "status": "Active"
+  },
+  {
+    "title": "MilBooru",
+    "url": "http://sheslostcontrol.net/moe/shimmie/",
+    "software": "Shimmie2",
+    "version": "Unknown*",
+    "category": "Anime, Cosplay",
+    "rating": "NSFW",
+    "api": "Unknown*",
+    "status": "Active"
+  },
+  {
+    "title": "CDRR board",
+    "url": "http://zumki.ru/",
+    "software": "Shimmie2",
+    "version": "Unknown*",
+    "category": "Rule 34",
+    "rating": "NSFW",
+    "api": "Unknown*",
+    "status": "Active"
+  },
+  {
+    "title": "Kusubooru",
+    "url": "https://kusubooru.com/",
+    "software": "Shimmie2",
+    "version": "Unknown*",
+    "category": "Rule 34",
+    "rating": "NSFW",
+    "api": "Unknown*",
+    "status": "Active"
+  },
+  {
+    "title": "FANSERVICE.FAN",
+    "url": "https://fanservice.fan/",
+    "software": "Shimmie2",
+    "version": "Unknown*",
+    "category": "Anime",
+    "rating": "NSFW",
+    "api": "Unknown*",
+    "status": "Active"
+  },
+  {
+    "title": "Rule34 Yaoi",
+    "url": "http://rule34yaoi.com/",
+    "software": "Shimmie2",
+    "version": "Unknown*",
+    "category": "Anime",
+    "rating": "NSFW",
+    "api": "Unknown*",
+    "status": "Active"
+  },
+  {
+    "title": "Tentacle Rape",
+    "url": "https://tentaclerape.net/",
+    "software": "Shimmie2",
+    "version": "Unknown*",
+    "category": "Rule 34",
+    "rating": "NSFW",
+    "api": "Unknown*",
+    "status": "Active"
+  },
+  {
+    "title": "WH40kart",
+    "url": "https://wh40kart.im",
+    "software": "Shimmie2",
+    "version": "Unknown*",
+    "category": "Rule 34",
+    "rating": "NSFW",
+    "api": "Unknown*",
+    "status": "Unstable"
+  },
+  {
+    "title": "4chan House Shimmie",
+    "url": "http://shimmie.4chanhouse.org/index.php?q=/post/list",
+    "software": "Shimmie2",
+    "version": "2.2.4",
+    "category": "Rule 34",
+    "rating": "NSFW",
+    "api": "Unknown*",
+    "status": "Active"
+  },
+  {
+    "title": "Foot-Fetish-Booru",
+    "sub": "booru.org",
+    "url": "https://footfetishbooru.booru.org/",
+    "software": "Gelbooru",
+    "version": "Beta 0.1.11",
+    "category": "Fetish",
+    "rating": "NSFW",
+    "api": "None**",
+    "status": "Active"
+  },
+  {
+    "title": "Scatbooru",
+    "url": "https://scatbooru.co.uk/",
+    "software": "Gelbooru",
+    "version": "Beta 0.1.11",
+    "category": "Fetish",
+    "rating": "NSFL",
+    "api": "None**",
+    "status": "Active"
+  },
+  {
+    "title": "RealBooru",
+    "url": "https://realbooru.com/",
+    "software": "Gelbooru",
+    "version": "Beta 0.2",
+    "category": "Real",
+    "rating": "NSFW",
+    "api": "https://realbooru.com/index.php?page=dapi&s=post&q=index",
+    "status": "Active"
+  },
+  {
+    "title": "Hentai Cosplay",
+    "url": "https://hentai-cosplay.com/",
+    "software": "Unknown*",
+    "version": "Unknown*",
+    "category": "Real",
+    "rating": "NSFW",
+    "api": "Unknown*",
+    "status": "Active"
+  },
+  {
+    "title": "Idol Complex",
+    "sub": "Sankaku",
+    "url": "https://idol.sankakucomplex.com/",
+    "software": "Danbooru",
+    "version": "old",
+    "rating": "NSFW",
+    "category": "Real",
+    "api": "Disabled",
+    "status": "Active"
+  },
+  {
+    "title": "Behoimi",
+    "alternate": ["three-dee-booru", "3dbooru"],
+    "url": "http://behoimi.org/",
+    "software": "Danbooru",
+    "version": "1.18.0",
+    "rating": "NSFW",
+    "category": "Real",
+    "api": "http://behoimi.org/post/index.json?limit=200&tags=id:%3C=100+status:any",
+    "status": "Active"
+  },
+  {
+    "title": "e621",
+    "url": "https://e621.net/",
+    "software": "Danbooru",
+    "version": "Unknown*",
+    "rating": "NSFW",
+    "category": "Furry",
+    "api": "https://e621.net/posts.json?page=a1&limit=200",
+    "status": "Active"
+  },
+  {
+    "title": "PoniBooru",
+    "url": "https://pbooru.com/",
+    "software": "Gelbooru",
+    "version": "Beta 0.2.0",
+    "rating": "NSFW",
+    "category": "Furry",
+    "api": "https://pbooru.com/index.php?page=dapi&s=post&q=index",
+    "status": "Active"
+  },
+  {
+    "title": "Derpibooru",
+    "url": "https://derpibooru.org/",
+    "software": "Philomena",
+    "version": "Unknown*",
+    "rating": "NSFW",
+    "category": "Furry",
+    "api": "https://derpibooru.org/pages/api",
+    "status": "Active"
+  },
+  {
+    "title": "Fur Affinity",
+    "url": "https://www.furaffinity.net/",
+    "software": "Unknown*",
+    "version": "Unknown*",
+    "rating": "NSFW",
+    "category": "Furry",
+    "api": "Unknown*",
+    "status": "Active"
+  },
+  {
+    "title": "BooruFurry",
+    "url": "http://www.boorufurry.com/",
+    "software": "Shimmie2",
+    "version": "Unknown*",
+    "category": "Furry",
+    "rating": "NSFW",
+    "api": "Unknown*",
+    "status": "Active"
+  },
+  {
+    "title": "Burrowowl",
+    "url": "http://gallery.burrowowl.net/",
+    "software": "Shimmie2",
+    "version": "2.6.2",
+    "category": "Misc",
+    "rating": "NSFW",
+    "api": "Unknown*",
+    "status": "Active"
+  },
+  {
+    "title": "Dante's Archive",
+    "url": "https://cow.zone/shimmie2/",
+    "software": "Shimmie2",
+    "version": "2.6.2",
+    "category": "Furry",
+    "rating": "NSFW",
+    "api": "Unknown*",
+    "status": "Active"
+  },
+  {
+    "title": "FurryBooru",
+    "url": "https://furry.booru.org/",
+    "software": "Gelbooru",
+    "version": "Beta 0.2",
+    "rating": "NSFW",
+    "category": "Furry",
+    "api": "https://furry.booru.org/index.php?page=dapi&s=post&q=index",
+    "status": "Active"
+  },
+  {
+    "title": "Wildcritters",
+    "url": "https://wildcritters.ws/",
+    "software": "Wildcritters",
+    "version": "Unknown*",
+    "rating": "NSFW",
+    "category": "Furry",
+    "api": "Unknown*",
+    "status": "Active"
+  },
+  {
+    "title": "Inkbunny",
+    "url": "https://inkbunny.net/",
+    "software": "Unknown*",
+    "version": "Unknown*",
+    "rating": "NSFW",
+    "category": "Furry",
+    "api": "https://wiki.inkbunny.net/wiki/API",
+    "status": "Active"
+  },
+  {
+    "title": "Nozomi.la",
+    "url": "https://nozomi.la/",
+    "software": "Unknown*",
+    "version": "Unknown*",
+    "rating": "NSFW",
+    "category": "Anime",
+    "api": "Unknown*",
+    "status": "Active"
+  },
+  {
+    "title": "nik.bot.nu",
+    "alternate": "Imageboard Scraper",
+    "url": "https://nik.bot.nu/",
+    "software": "Unknown*",
+    "version": "Unknown*",
+    "rating": "NSFW",
+    "category": "Misc",
+    "api": "Unknown*",
+    "status": "Active"
+  },
+  {
+    "title": "NanoChan",
+    "url": "http://nanochan.org/",
+    "software": "Unknown*",
+    "version": "Unknown*",
+    "rating": "Unknown*",
+    "category": "Unknown*",
+    "api": "Unknown*",
+    "status": "Resurrecting"
+  },
+  {
+    "title": "Pepe",
+    "sub": "booru.org",
+    "url": "https://pepe.booru.org/",
+    "software": "Gelbooru",
+    "version": "Beta 0.1.11",
+    "category": "Misc",
+    "rating": "NSFW",
+    "api": "None**",
+    "status": "Active"
+  },
+  {
+    "title": "Beanbeeroo",
+    "url": "http://miya.nipah.moe/",
+    "software": "Danbooru",
+    "version": "v2.59.0",
+    "rating": "NSFW",
+    "category": "Misc",
+    "api": "http://miya.nipah.moe/posts.json?page=a1&limit=200",
+    "status": "Active"
+  },
+  {
+    "title": "CJ's Shimmie",
+    "url": "https://cjdavies.org/shimmie/",
+    "software": "Shimmie2",
+    "version": "Unknown*",
+    "category": "Misc",
+    "rating": "SFW",
+    "api": "Unknown*",
+    "status": "Active"
+  },
+  {
+    "title": "Safebooru",
+    "url": "https://safebooru.org/",
+    "software": "Gelbooru",
+    "version": "Beta 0.2.0",
+    "category": "Anime",
+    "rating": "SFW",
+    "api": "https://safebooru.org/index.php?page=dapi&s=post&q=index",
+    "status": "Active"
+  },
+  {
+    "title": "Donmai Safebooru",
+    "url": "https://safebooru.donmai.us/",
+    "software": "Danbooru",
+    "version": "41304d6ad",
+    "category": "Anime",
+    "rating": "SFW",
+    "api": "https://safebooru.donmai.us/posts.json?page=a1&limit=200",
+    "status": "Active"
+  },
+  {
+    "title": "E-ShuuShuu",
+    "url": "https://e-shuushuu.net/",
+    "software": "Unknown*",
+    "version": "Unknown*",
+    "rating": "SFW",
+    "category": "Anime",
+    "api": "Unknown*",
+    "status": "Active"
+  },
+  {
+    "title": "Fanservice FTW",
+    "url": "http://gallery.fanserviceftw.com/",
+    "software": "Shimmie2",
+    "version": "2.6.2",
+    "category": "Misc",
+    "rating": "SFW",
+    "api": "Unknown*",
+    "status": "Active"
+  },
+  {
+    "title": "Shimmie Testbed",
+    "url": "http://shimmie.shishnet.org/v2/",
+    "software": "Shimmie2",
+    "version": "2.8-dev",
+    "category": "Misc",
+    "rating": "SFW",
+    "api": "Unknown*",
+    "status": "Active"
+  },
+  {
+    "title":" Bronibooru",
+    "url": "http://www.bronibooru.com/",
+    "software": "Danbooru",
+    "version": "Unknown*",
+    "category": "Unknown*",
+    "rating": "SFW",
+    "api": "http://www.bronibooru.com/posts.json?page=a1&limit=200",
+    "status": "Unavailable"
+  },
+  {
+    "title": "MSPAbooru",
+    "url": "http://mspabooru.com/",
+    "software": "Gelbooru",
+    "version": "Beta 0.2",
+    "category": "Fanart",
+    "rating": "SFW",
+    "api": "http://mspabooru.com/index.php?page=dapi&s=post&q=index",
+    "status": "Active",
+    "comment": "Formerly Ib.Skaia.net"
+  },
+  {
+    "title": "Konachan SFW",
+    "url": "https://konachan.net/",
+    "software": "Moebooru",
+    "version": "4.0.0-a.1",
+    "category": "Anime",
+    "rating": "SFW",
+    "api": "https://konachan.net/post.json?limit=200",
+    "status": "Active"
+  },
+  {
+    "title": "sakugabooru",
+    "url": "https://www.sakugabooru.com/",
+    "software": "Moebooru",
+    "version": "5.0.0",
+    "category": "Anime",
+    "rating": "SFW",
+    "api": "https://www.sakugabooru.com/post.json?limit=200",
+    "status": "Active"
+  },
+  {
+    "title": "Vinebooru",
+    "url": "https://booru.vineshroom.net/",
+    "software": "Shimmie2",
+    "version": "2.6.2",
+    "category": "Misc",
+    "rating": "SFW",
+    "api": "Unknown*",
+    "status": "Active"
+  },
+  {
+    "title": "e926",
+    "url": "https://e926.net/",
+    "software": "Danbooru",
+    "version": "Unknown*",
+    "rating": "SFW",
+    "category": "Furry",
+    "api": "https://e926.net/posts.json?page=a1&limit=200",
+    "status": "Active",
+    "comment": "e621's SFW version, as SFW as furry can be"
+  },
+  {
+    "title": "Yukkuri",
+    "sub": "One Yukkuri Place",
+    "url": "http://yukkuri.shii.org/",
+    "software": "Danbooru",
+    "version": "v2.98.0",
+    "rating": "SFW",
+    "category": "Anime",
+    "api": "http://yukkuri.shii.org/posts.json?page=a1&limit=200",
+    "status": "Active"
+  },
+  {
+    "title": "Yunyah",
+    "sub": "One Yukkuri Place",
+    "url": "http://oyp.yunyah.com/",
+    "software": "Danbooru",
+    "version": "v2.98.0",
+    "rating": "SFW",
+    "category": "Anime",
+    "api": "http://oyp.yunyah.com/posts.json?page=a1&limit=200",
+    "status": "Active"
+  },
+  {
+    "title": "Zerochan",
+    "url": "https://www.zerochan.net/",
+    "software": "Unknown*",
+    "version": "Unknown*",
+    "rating": "SFW",
+    "category": "Anime",
+    "api": "Unknown*",
+    "status": "Active"
+  },
+  {
+    "title": "Asiachan KPOP ",
+    "url": "https://kpop.asiachan.com/",
+    "software": "Unknown*",
+    "version": "Unknown*",
+    "rating": "SFW",
+    "category": "Real",
+    "api": "Unknown*",
+    "status": "Active"
+  },
+  {
+    "title": "Minitokyo",
+    "url": "http://www.minitokyo.net/",
+    "software": "Unknown*",
+    "version": "Unknown*",
+    "rating": "SFW",
+    "category": "Anime",
+    "api": "Unknown*",
+    "status": "Active"
+  },
+  {
+    "title": "Karabako",
+    "url": "http://www.karabako.net/",
+    "software": "Unknown*",
+    "version": "Unknown*",
+    "rating": "SFW",
+    "category": "Anime",
+    "api": "Unknown*",
+    "status": "Active"
+  },
+  {
+    "title": "genboard",
+    "url": "https://img.genshiken-itb.org/",
+    "sofware": "Moebooru",
+    "version": "6.0.0",
+    "rating": "SFW",
+    "category": "Anime",
+    "api": "https://img.genshiken-itb.org/post.json?limit=200",
+    "status": "Active"
+  },
+  {
+    "title": "Oceanfalls Booru",
+    "url": "https://fanart.oceanfalls.net/",
+    "software": "Shimmie2",
+    "version": "2.6.2",
+    "category": "Anime",
+    "rating": "SFW",
+    "api": "Unknown*",
+    "status": "Active"
+  },
+  {
+    "title": "Caliburbooru",
+    "url": "https://cascards.fluffyquack.com/",
+    "software": "Shimmie2",
+    "version": "Unknown*",
+    "category": "Games",
+    "rating": "SFW",
+    "api": "Unknown*",
+    "status": "Active"
+  },
+  {
+    "title": "Taskforce M.O.E.",
+    "url": "http://taskforce.moe/",
+    "software": "Shimmie2",
+    "version": "2.6.2",
+    "category": "Anime",
+    "rating": "SFW",
+    "api": "Unknown*",
+    "status": "Active"
+  },
+  {
+    "title": "RoA.Booru",
+    "url": "http://www.booru.realmofastra.ca/",
+    "software": "Shimmie2",
+    "version": "2.5.4",
+    "category": "Anime",
+    "rating": "SFW",
+    "api": "Unknown*",
+    "status": "Active",
+    "comment": "Realm of Astra booru"
+  },
+  {
+    "title": "Creativity Weekly database",
+    "url": "https://creativity.xenonlabs.eu/post/list/1",
+    "software": "Shimmie2",
+    "version": "2.6.1",
+    "category": "Misc",
+    "rating": "SFW",
+    "api": "Unknown*",
+    "status": "Active"
+  },
+  {
+    "title": "wallhaven.cc",
+    "url": "https://wallhaven.cc/",
+    "software": "Unknown*",
+    "version": "Unknown*",
+    "category": "Misc",
+    "rating": "SFW",
+    "api": "Unknown*",
+    "status": "Active"
+  },
+  {
+    "title": "Angel HQ",
+    "url": "http://www.angelhq.net/",
+    "status": "Dead"
+  },
+  {
+    "title": "Anichan",
+    "url": "http://chan.aniview.eu/post/list",
+    "status": "Dead"
+  },
+  {
+    "title": "Animedia",
+    "url": "http://www.animedia.com.mx/galeria/post/list",
+    "status": "Dead"
+  },
+  {
+    "title": "AnimeMahou",
+    "url": "http://www.animemahou.com",
+    "status": "Dead"
+  },
+  {
+    "title": "Baron",
+    "url": "http://wudthipan.com/fucko",
+    "comment": "up but not working",
+    "status": "Dead"
+  },
+  {
+    "title": "Omnibooru",
+    "url": "https://booru.room208.org/wiki_pages/1",
+    "comment": "Permanently shut down. Archives available",
+    "status": "Dead"
+  },
+  {
+    "title": "Pandabooru",
+    "url": "http://www.pandabooru.net/wiki",
+    "status": "Dead"
+  },
+  {
+    "title": "Uberbooru",
+    "url": "https://uberbooru.com",
+    "comment": "Not responding",
+    "status": "Dead"
+  },
+  {
+    "title": "vectorbooru",
+    "url": "http://ichijou.org/",
+    "comment": "Apache2 Ubuntu Default Page",
+    "status": "Dead"
+  },
+  {
+    "title": "dollbooru",
+    "url": "https://dollbooru.org/",
+    "comment": "Error 101",
+    "status": "Dead"
+  },
+  {
+    "title": "Mishimmie",
+    "url": "http://shimmie.katawa-shoujo.com/",
+    "comment": "Dead Katawa-shoujo booru",
+    "status": "Dead"
+  },
+  {
+    "title": "20% Cooler",
+    "url": "https://twentypercentcooler.net",
+    "comment": "Dead pony booru",
+    "status": "Dead"
+  },
+  {
+    "title": "youhate.us",
+    "url": "https://youhate.us",
+    "status": "Dead"
+  }
+]
