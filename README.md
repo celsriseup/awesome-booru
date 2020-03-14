@@ -127,7 +127,7 @@ Mostly "art galleries" and booru-ish.
 
 - [booru.org](https://booru.org/) - Create your own booru. Hosts thousands of boorus. See also: [top booru boorus](https://booru.org/top).
 - [NanoChan](http://nanochan.org/) - About to be resurrected from the dead
-- [Pepe](pepe.booru.org) - Rare pepes
+- [Pepe](https://pepe.booru.org) - Rare pepes
 - [vndb](https://vndb.org/) - visual novel database
 - [Beanbeeroo](http://miya.nipah.moe/) - memes
 - [CJ's Shimmie](https://cjdavies.org/shimmie/)
