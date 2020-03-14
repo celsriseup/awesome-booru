@@ -198,8 +198,8 @@ Mostly "art galleries" and booru-ish.
 - [vectorbooru](http://ichijou.org/) - Apache2 Ubuntu Default Page
 - [dollbooru](https://dollbooru.org/) - Error 1016
 - [Mishimmie](http://shimmie.katawa-shoujo.com/) - Dead Katawa-shoujo booru
-- [20% Cooler](twentypercentcooler.net) - Dead pony booru
-- [youhate.us](youhate.us) 
+- [20% Cooler](http://twentypercentcooler.net) - Dead pony booru
+- [youhate.us](http://youhate.us) 
 
 ### Dead doujinshi
 
